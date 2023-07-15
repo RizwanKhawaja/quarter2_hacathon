@@ -9,6 +9,7 @@ const Promotion = () => {
   <div className="flex gap-2">
   <ProductCard title="" price={""} img={P10} />
   <ProductCard title="" price={""} img={P8} />
+  <h1>Test case</h1>
   </div>
     </div>
 
